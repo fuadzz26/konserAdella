@@ -373,7 +373,7 @@ export default function App() {
         fontSize: 12,
         letterSpacing: 1,
       }}>
-        ©  The Real Dangdut Koplo ✦
+        The Real Dangdut Koplo 
       </footer>
 
       <div style={{ height: 4, background: `linear-gradient(90deg, ${gold}, ${gold2}, ${gold})` }} />
